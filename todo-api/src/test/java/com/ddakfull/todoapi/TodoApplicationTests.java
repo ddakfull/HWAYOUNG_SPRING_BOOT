@@ -1,4 +1,4 @@
-package com.ddakfull.todo;
+package com.ddakfull.todoapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,11 +1,11 @@
-package com.ddakfull.todo.ui;
+package com.ddakfull.todoapi.ui;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ddakfull.todo.domain.Test;
+import com.ddakfull.todoapi.domain.Test;
 
 import lombok.RequiredArgsConstructor;
 

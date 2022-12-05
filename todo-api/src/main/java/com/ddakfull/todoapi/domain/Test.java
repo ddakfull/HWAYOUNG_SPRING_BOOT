@@ -1,4 +1,4 @@
-package com.ddakfull.todo.domain;
+package com.ddakfull.todoapi.domain;
 
 import lombok.Getter;
 
